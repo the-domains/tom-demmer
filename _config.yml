@@ -1,0 +1,28 @@
+name: Tom Demmer
+favicon: null
+layout_spectrum: 0.23938981583341956
+typography_spectrum: 0.31024467945098877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11332511948421597
+  lightness: 0.6324327602051198
+  saturation: 0.44381367112509906
+  rhythmicContrast: 0.7680952497757971
+purpose: []
